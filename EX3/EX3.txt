@@ -1,0 +1,9 @@
+QUESTION 2: MOVIE CLUSTERINGL:
+- Goal: Cluster movies based on user rating patterns by applying K-Means and Agglomerative Clustering on a sparse movie-user rating matrix. Determine the optimal k (2 to 20) using a  dual-axis plot of Sum of Squared Errors (SSE) and Silhouette Coefficient.
+
+QUESTION 3: TEXT CLASSIFICATION
+- Goal: Predict movie genres (War, Music, Animation) based on plot overviews by comparing two NLP techniques: TF-IDF (max 5,000 features, stop-words removed) and Word2Vec (mean word vector per overview).
+
+QUESTION 4: Personalized PageRank User-Based Collaborative Filtering (PPR-UCF)
+--------------------------------------------------------------------
+- Goal: Enhance the UCF recommendation algorithm by computing user similarities via graph structure and Personalized PageRank (PPR) by constructing a user graph connecting each user to their m-nearest neighbors (m ∈ {3, 5, 10}) based on Cosine Similarity.
