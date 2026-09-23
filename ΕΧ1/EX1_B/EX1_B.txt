@@ -1,1 +1,7 @@
-In this exercise we had to do an exploratory analysis of data about movies. The goal was to make some measurements on the data, find interesting correlations, and investigate some hypotheses.
+In this exercise we had to do an exploratory analysis of data about movies. 
+The goal was to make some measurements on the data, find interesting correlations, and investigate some hypotheses.
+
+Link for the data used for training and testing
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/
+
+credits.csv, movies_metadata.csv
